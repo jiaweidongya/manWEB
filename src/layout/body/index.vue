@@ -1,5 +1,5 @@
 <template>
-  <RouterView></RouterView>
+  <div>tsdasdssdsadsas头</div>
 </template>
 
 <script lang="ts" setup></script>
